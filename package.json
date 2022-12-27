@@ -1,0 +1,24 @@
+{
+  "name": "createnftoken",
+  "version": "1.0.0",
+  "description": "create a NFToken representing specific wallets profile info in metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PublicRouter/createNfToken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PublicRouter/createNfToken/issues"
+  },
+  "homepage": "https://github.com/PublicRouter/createNfToken#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "xumm-sdk": "^1.7.0"
+  }
+}
